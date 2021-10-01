@@ -1,0 +1,14 @@
+D:\MeuGit\Curso C sharp\1046\1046\bin\Debug\netcoreapp3.1\1046.exe
+D:\MeuGit\Curso C sharp\1046\1046\bin\Debug\netcoreapp3.1\1046.deps.json
+D:\MeuGit\Curso C sharp\1046\1046\bin\Debug\netcoreapp3.1\1046.runtimeconfig.json
+D:\MeuGit\Curso C sharp\1046\1046\bin\Debug\netcoreapp3.1\1046.runtimeconfig.dev.json
+D:\MeuGit\Curso C sharp\1046\1046\bin\Debug\netcoreapp3.1\1046.dll
+D:\MeuGit\Curso C sharp\1046\1046\bin\Debug\netcoreapp3.1\1046.pdb
+D:\MeuGit\Curso C sharp\1046\1046\obj\Debug\netcoreapp3.1\1046.csproj.AssemblyReference.cache
+D:\MeuGit\Curso C sharp\1046\1046\obj\Debug\netcoreapp3.1\1046.GeneratedMSBuildEditorConfig.editorconfig
+D:\MeuGit\Curso C sharp\1046\1046\obj\Debug\netcoreapp3.1\1046.AssemblyInfoInputs.cache
+D:\MeuGit\Curso C sharp\1046\1046\obj\Debug\netcoreapp3.1\1046.AssemblyInfo.cs
+D:\MeuGit\Curso C sharp\1046\1046\obj\Debug\netcoreapp3.1\1046.csproj.CoreCompileInputs.cache
+D:\MeuGit\Curso C sharp\1046\1046\obj\Debug\netcoreapp3.1\1046.dll
+D:\MeuGit\Curso C sharp\1046\1046\obj\Debug\netcoreapp3.1\1046.pdb
+D:\MeuGit\Curso C sharp\1046\1046\obj\Debug\netcoreapp3.1\1046.genruntimeconfig.cache

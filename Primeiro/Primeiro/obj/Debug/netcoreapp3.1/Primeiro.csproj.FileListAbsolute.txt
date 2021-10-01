@@ -1,0 +1,14 @@
+D:\MeuGit\Curso C sharp\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.exe
+D:\MeuGit\Curso C sharp\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.deps.json
+D:\MeuGit\Curso C sharp\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.runtimeconfig.json
+D:\MeuGit\Curso C sharp\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.runtimeconfig.dev.json
+D:\MeuGit\Curso C sharp\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.dll
+D:\MeuGit\Curso C sharp\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.pdb
+D:\MeuGit\Curso C sharp\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.csproj.AssemblyReference.cache
+D:\MeuGit\Curso C sharp\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.GeneratedMSBuildEditorConfig.editorconfig
+D:\MeuGit\Curso C sharp\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.AssemblyInfoInputs.cache
+D:\MeuGit\Curso C sharp\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.AssemblyInfo.cs
+D:\MeuGit\Curso C sharp\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.csproj.CoreCompileInputs.cache
+D:\MeuGit\Curso C sharp\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.dll
+D:\MeuGit\Curso C sharp\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.pdb
+D:\MeuGit\Curso C sharp\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\MeuGit\Curso C sharp\URI 1003\URI 1003\bin\Debug\netcoreapp3.1\URI 1003.exe
+D:\MeuGit\Curso C sharp\URI 1003\URI 1003\bin\Debug\netcoreapp3.1\URI 1003.deps.json
+D:\MeuGit\Curso C sharp\URI 1003\URI 1003\bin\Debug\netcoreapp3.1\URI 1003.runtimeconfig.json
+D:\MeuGit\Curso C sharp\URI 1003\URI 1003\bin\Debug\netcoreapp3.1\URI 1003.runtimeconfig.dev.json
+D:\MeuGit\Curso C sharp\URI 1003\URI 1003\bin\Debug\netcoreapp3.1\URI 1003.dll
+D:\MeuGit\Curso C sharp\URI 1003\URI 1003\bin\Debug\netcoreapp3.1\URI 1003.pdb
+D:\MeuGit\Curso C sharp\URI 1003\URI 1003\obj\Debug\netcoreapp3.1\URI 1003.GeneratedMSBuildEditorConfig.editorconfig
+D:\MeuGit\Curso C sharp\URI 1003\URI 1003\obj\Debug\netcoreapp3.1\URI 1003.AssemblyInfoInputs.cache
+D:\MeuGit\Curso C sharp\URI 1003\URI 1003\obj\Debug\netcoreapp3.1\URI 1003.AssemblyInfo.cs
+D:\MeuGit\Curso C sharp\URI 1003\URI 1003\obj\Debug\netcoreapp3.1\URI 1003.csproj.CoreCompileInputs.cache
+D:\MeuGit\Curso C sharp\URI 1003\URI 1003\obj\Debug\netcoreapp3.1\URI 1003.dll
+D:\MeuGit\Curso C sharp\URI 1003\URI 1003\obj\Debug\netcoreapp3.1\URI 1003.pdb
+D:\MeuGit\Curso C sharp\URI 1003\URI 1003\obj\Debug\netcoreapp3.1\URI 1003.genruntimeconfig.cache

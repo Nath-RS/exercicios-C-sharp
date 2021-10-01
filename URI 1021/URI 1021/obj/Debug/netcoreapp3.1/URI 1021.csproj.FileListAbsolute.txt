@@ -1,0 +1,14 @@
+D:\MeuGit\Curso C sharp\URI 1021\URI 1021\bin\Debug\netcoreapp3.1\URI 1021.exe
+D:\MeuGit\Curso C sharp\URI 1021\URI 1021\bin\Debug\netcoreapp3.1\URI 1021.deps.json
+D:\MeuGit\Curso C sharp\URI 1021\URI 1021\bin\Debug\netcoreapp3.1\URI 1021.runtimeconfig.json
+D:\MeuGit\Curso C sharp\URI 1021\URI 1021\bin\Debug\netcoreapp3.1\URI 1021.runtimeconfig.dev.json
+D:\MeuGit\Curso C sharp\URI 1021\URI 1021\bin\Debug\netcoreapp3.1\URI 1021.dll
+D:\MeuGit\Curso C sharp\URI 1021\URI 1021\bin\Debug\netcoreapp3.1\URI 1021.pdb
+D:\MeuGit\Curso C sharp\URI 1021\URI 1021\obj\Debug\netcoreapp3.1\URI 1021.csproj.AssemblyReference.cache
+D:\MeuGit\Curso C sharp\URI 1021\URI 1021\obj\Debug\netcoreapp3.1\URI 1021.GeneratedMSBuildEditorConfig.editorconfig
+D:\MeuGit\Curso C sharp\URI 1021\URI 1021\obj\Debug\netcoreapp3.1\URI 1021.AssemblyInfoInputs.cache
+D:\MeuGit\Curso C sharp\URI 1021\URI 1021\obj\Debug\netcoreapp3.1\URI 1021.AssemblyInfo.cs
+D:\MeuGit\Curso C sharp\URI 1021\URI 1021\obj\Debug\netcoreapp3.1\URI 1021.csproj.CoreCompileInputs.cache
+D:\MeuGit\Curso C sharp\URI 1021\URI 1021\obj\Debug\netcoreapp3.1\URI 1021.dll
+D:\MeuGit\Curso C sharp\URI 1021\URI 1021\obj\Debug\netcoreapp3.1\URI 1021.pdb
+D:\MeuGit\Curso C sharp\URI 1021\URI 1021\obj\Debug\netcoreapp3.1\URI 1021.genruntimeconfig.cache
