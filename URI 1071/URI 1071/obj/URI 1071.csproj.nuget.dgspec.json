@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\natha\\source\\repos\\URI 1071\\URI 1071\\URI 1071.csproj": {}
+    "D:\\MeuGit\\Curso C sharp\\URI 1071\\URI 1071\\URI 1071.csproj": {}
   },
   "projects": {
-    "C:\\Users\\natha\\source\\repos\\URI 1071\\URI 1071\\URI 1071.csproj": {
+    "D:\\MeuGit\\Curso C sharp\\URI 1071\\URI 1071\\URI 1071.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\natha\\source\\repos\\URI 1071\\URI 1071\\URI 1071.csproj",
+        "projectUniqueName": "D:\\MeuGit\\Curso C sharp\\URI 1071\\URI 1071\\URI 1071.csproj",
         "projectName": "URI 1071",
-        "projectPath": "C:\\Users\\natha\\source\\repos\\URI 1071\\URI 1071\\URI 1071.csproj",
+        "projectPath": "D:\\MeuGit\\Curso C sharp\\URI 1071\\URI 1071\\URI 1071.csproj",
         "packagesPath": "C:\\Users\\natha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\natha\\source\\repos\\URI 1071\\URI 1071\\obj\\",
+        "outputPath": "D:\\MeuGit\\Curso C sharp\\URI 1071\\URI 1071\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

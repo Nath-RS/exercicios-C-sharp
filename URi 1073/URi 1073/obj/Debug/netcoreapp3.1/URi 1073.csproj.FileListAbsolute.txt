@@ -1,0 +1,14 @@
+D:\MeuGit\Curso C sharp\URi 1073\URi 1073\bin\Debug\netcoreapp3.1\URi 1073.exe
+D:\MeuGit\Curso C sharp\URi 1073\URi 1073\bin\Debug\netcoreapp3.1\URi 1073.deps.json
+D:\MeuGit\Curso C sharp\URi 1073\URi 1073\bin\Debug\netcoreapp3.1\URi 1073.runtimeconfig.json
+D:\MeuGit\Curso C sharp\URi 1073\URi 1073\bin\Debug\netcoreapp3.1\URi 1073.runtimeconfig.dev.json
+D:\MeuGit\Curso C sharp\URi 1073\URi 1073\bin\Debug\netcoreapp3.1\URi 1073.dll
+D:\MeuGit\Curso C sharp\URi 1073\URi 1073\bin\Debug\netcoreapp3.1\URi 1073.pdb
+D:\MeuGit\Curso C sharp\URi 1073\URi 1073\obj\Debug\netcoreapp3.1\URi 1073.csproj.AssemblyReference.cache
+D:\MeuGit\Curso C sharp\URi 1073\URi 1073\obj\Debug\netcoreapp3.1\URi 1073.GeneratedMSBuildEditorConfig.editorconfig
+D:\MeuGit\Curso C sharp\URi 1073\URi 1073\obj\Debug\netcoreapp3.1\URi 1073.AssemblyInfoInputs.cache
+D:\MeuGit\Curso C sharp\URi 1073\URi 1073\obj\Debug\netcoreapp3.1\URi 1073.AssemblyInfo.cs
+D:\MeuGit\Curso C sharp\URi 1073\URi 1073\obj\Debug\netcoreapp3.1\URi 1073.csproj.CoreCompileInputs.cache
+D:\MeuGit\Curso C sharp\URi 1073\URi 1073\obj\Debug\netcoreapp3.1\URi 1073.dll
+D:\MeuGit\Curso C sharp\URi 1073\URi 1073\obj\Debug\netcoreapp3.1\URi 1073.pdb
+D:\MeuGit\Curso C sharp\URi 1073\URi 1073\obj\Debug\netcoreapp3.1\URi 1073.genruntimeconfig.cache

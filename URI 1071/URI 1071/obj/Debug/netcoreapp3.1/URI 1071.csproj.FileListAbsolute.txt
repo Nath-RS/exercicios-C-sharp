@@ -12,3 +12,17 @@ C:\Users\natha\source\repos\URI 1071\URI 1071\bin\Debug\netcoreapp3.1\URI 1071.p
 C:\Users\natha\source\repos\URI 1071\URI 1071\obj\Debug\netcoreapp3.1\URI 1071.dll
 C:\Users\natha\source\repos\URI 1071\URI 1071\obj\Debug\netcoreapp3.1\URI 1071.pdb
 C:\Users\natha\source\repos\URI 1071\URI 1071\obj\Debug\netcoreapp3.1\URI 1071.genruntimeconfig.cache
+D:\MeuGit\Curso C sharp\URI 1071\URI 1071\bin\Debug\netcoreapp3.1\URI 1071.exe
+D:\MeuGit\Curso C sharp\URI 1071\URI 1071\bin\Debug\netcoreapp3.1\URI 1071.deps.json
+D:\MeuGit\Curso C sharp\URI 1071\URI 1071\bin\Debug\netcoreapp3.1\URI 1071.runtimeconfig.json
+D:\MeuGit\Curso C sharp\URI 1071\URI 1071\bin\Debug\netcoreapp3.1\URI 1071.runtimeconfig.dev.json
+D:\MeuGit\Curso C sharp\URI 1071\URI 1071\bin\Debug\netcoreapp3.1\URI 1071.dll
+D:\MeuGit\Curso C sharp\URI 1071\URI 1071\bin\Debug\netcoreapp3.1\URI 1071.pdb
+D:\MeuGit\Curso C sharp\URI 1071\URI 1071\obj\Debug\netcoreapp3.1\URI 1071.csproj.AssemblyReference.cache
+D:\MeuGit\Curso C sharp\URI 1071\URI 1071\obj\Debug\netcoreapp3.1\URI 1071.GeneratedMSBuildEditorConfig.editorconfig
+D:\MeuGit\Curso C sharp\URI 1071\URI 1071\obj\Debug\netcoreapp3.1\URI 1071.AssemblyInfoInputs.cache
+D:\MeuGit\Curso C sharp\URI 1071\URI 1071\obj\Debug\netcoreapp3.1\URI 1071.AssemblyInfo.cs
+D:\MeuGit\Curso C sharp\URI 1071\URI 1071\obj\Debug\netcoreapp3.1\URI 1071.csproj.CoreCompileInputs.cache
+D:\MeuGit\Curso C sharp\URI 1071\URI 1071\obj\Debug\netcoreapp3.1\URI 1071.dll
+D:\MeuGit\Curso C sharp\URI 1071\URI 1071\obj\Debug\netcoreapp3.1\URI 1071.pdb
+D:\MeuGit\Curso C sharp\URI 1071\URI 1071\obj\Debug\netcoreapp3.1\URI 1071.genruntimeconfig.cache
