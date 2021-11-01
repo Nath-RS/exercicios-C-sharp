@@ -1,0 +1,14 @@
+D:\MeuGit\Curso C sharp\Exercícios Vetores\Exercícios Vetores\bin\Debug\netcoreapp3.1\Exercícios Vetores.exe
+D:\MeuGit\Curso C sharp\Exercícios Vetores\Exercícios Vetores\bin\Debug\netcoreapp3.1\Exercícios Vetores.deps.json
+D:\MeuGit\Curso C sharp\Exercícios Vetores\Exercícios Vetores\bin\Debug\netcoreapp3.1\Exercícios Vetores.runtimeconfig.json
+D:\MeuGit\Curso C sharp\Exercícios Vetores\Exercícios Vetores\bin\Debug\netcoreapp3.1\Exercícios Vetores.runtimeconfig.dev.json
+D:\MeuGit\Curso C sharp\Exercícios Vetores\Exercícios Vetores\bin\Debug\netcoreapp3.1\Exercícios Vetores.dll
+D:\MeuGit\Curso C sharp\Exercícios Vetores\Exercícios Vetores\bin\Debug\netcoreapp3.1\Exercícios Vetores.pdb
+D:\MeuGit\Curso C sharp\Exercícios Vetores\Exercícios Vetores\obj\Debug\netcoreapp3.1\Exercícios Vetores.csproj.AssemblyReference.cache
+D:\MeuGit\Curso C sharp\Exercícios Vetores\Exercícios Vetores\obj\Debug\netcoreapp3.1\Exercícios Vetores.GeneratedMSBuildEditorConfig.editorconfig
+D:\MeuGit\Curso C sharp\Exercícios Vetores\Exercícios Vetores\obj\Debug\netcoreapp3.1\Exercícios Vetores.AssemblyInfoInputs.cache
+D:\MeuGit\Curso C sharp\Exercícios Vetores\Exercícios Vetores\obj\Debug\netcoreapp3.1\Exercícios Vetores.AssemblyInfo.cs
+D:\MeuGit\Curso C sharp\Exercícios Vetores\Exercícios Vetores\obj\Debug\netcoreapp3.1\Exercícios Vetores.csproj.CoreCompileInputs.cache
+D:\MeuGit\Curso C sharp\Exercícios Vetores\Exercícios Vetores\obj\Debug\netcoreapp3.1\Exercícios Vetores.dll
+D:\MeuGit\Curso C sharp\Exercícios Vetores\Exercícios Vetores\obj\Debug\netcoreapp3.1\Exercícios Vetores.pdb
+D:\MeuGit\Curso C sharp\Exercícios Vetores\Exercícios Vetores\obj\Debug\netcoreapp3.1\Exercícios Vetores.genruntimeconfig.cache
