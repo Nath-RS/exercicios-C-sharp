@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Matrizes Questoes 6 e 7/1.0.0": {
+        "runtime": {
+          "Matrizes Questoes 6 e 7.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Matrizes Questoes 6 e 7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

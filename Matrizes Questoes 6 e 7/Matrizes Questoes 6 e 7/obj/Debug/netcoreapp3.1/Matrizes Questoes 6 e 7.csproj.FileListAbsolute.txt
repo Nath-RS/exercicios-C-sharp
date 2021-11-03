@@ -1,0 +1,14 @@
+D:\MeuGit\Curso C sharp\Matrizes Questoes 6 e 7\Matrizes Questoes 6 e 7\bin\Debug\netcoreapp3.1\Matrizes Questoes 6 e 7.exe
+D:\MeuGit\Curso C sharp\Matrizes Questoes 6 e 7\Matrizes Questoes 6 e 7\bin\Debug\netcoreapp3.1\Matrizes Questoes 6 e 7.deps.json
+D:\MeuGit\Curso C sharp\Matrizes Questoes 6 e 7\Matrizes Questoes 6 e 7\bin\Debug\netcoreapp3.1\Matrizes Questoes 6 e 7.runtimeconfig.json
+D:\MeuGit\Curso C sharp\Matrizes Questoes 6 e 7\Matrizes Questoes 6 e 7\bin\Debug\netcoreapp3.1\Matrizes Questoes 6 e 7.runtimeconfig.dev.json
+D:\MeuGit\Curso C sharp\Matrizes Questoes 6 e 7\Matrizes Questoes 6 e 7\bin\Debug\netcoreapp3.1\Matrizes Questoes 6 e 7.dll
+D:\MeuGit\Curso C sharp\Matrizes Questoes 6 e 7\Matrizes Questoes 6 e 7\bin\Debug\netcoreapp3.1\Matrizes Questoes 6 e 7.pdb
+D:\MeuGit\Curso C sharp\Matrizes Questoes 6 e 7\Matrizes Questoes 6 e 7\obj\Debug\netcoreapp3.1\Matrizes Questoes 6 e 7.csproj.AssemblyReference.cache
+D:\MeuGit\Curso C sharp\Matrizes Questoes 6 e 7\Matrizes Questoes 6 e 7\obj\Debug\netcoreapp3.1\Matrizes Questoes 6 e 7.GeneratedMSBuildEditorConfig.editorconfig
+D:\MeuGit\Curso C sharp\Matrizes Questoes 6 e 7\Matrizes Questoes 6 e 7\obj\Debug\netcoreapp3.1\Matrizes Questoes 6 e 7.AssemblyInfoInputs.cache
+D:\MeuGit\Curso C sharp\Matrizes Questoes 6 e 7\Matrizes Questoes 6 e 7\obj\Debug\netcoreapp3.1\Matrizes Questoes 6 e 7.AssemblyInfo.cs
+D:\MeuGit\Curso C sharp\Matrizes Questoes 6 e 7\Matrizes Questoes 6 e 7\obj\Debug\netcoreapp3.1\Matrizes Questoes 6 e 7.csproj.CoreCompileInputs.cache
+D:\MeuGit\Curso C sharp\Matrizes Questoes 6 e 7\Matrizes Questoes 6 e 7\obj\Debug\netcoreapp3.1\Matrizes Questoes 6 e 7.dll
+D:\MeuGit\Curso C sharp\Matrizes Questoes 6 e 7\Matrizes Questoes 6 e 7\obj\Debug\netcoreapp3.1\Matrizes Questoes 6 e 7.pdb
+D:\MeuGit\Curso C sharp\Matrizes Questoes 6 e 7\Matrizes Questoes 6 e 7\obj\Debug\netcoreapp3.1\Matrizes Questoes 6 e 7.genruntimeconfig.cache
