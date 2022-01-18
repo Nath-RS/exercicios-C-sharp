@@ -1,0 +1,14 @@
+D:\MeuGit\Curso C sharp\ProgRevisão\ProgRevisão\bin\Debug\netcoreapp3.1\ProgRevisão.exe
+D:\MeuGit\Curso C sharp\ProgRevisão\ProgRevisão\bin\Debug\netcoreapp3.1\ProgRevisão.deps.json
+D:\MeuGit\Curso C sharp\ProgRevisão\ProgRevisão\bin\Debug\netcoreapp3.1\ProgRevisão.runtimeconfig.json
+D:\MeuGit\Curso C sharp\ProgRevisão\ProgRevisão\bin\Debug\netcoreapp3.1\ProgRevisão.runtimeconfig.dev.json
+D:\MeuGit\Curso C sharp\ProgRevisão\ProgRevisão\bin\Debug\netcoreapp3.1\ProgRevisão.dll
+D:\MeuGit\Curso C sharp\ProgRevisão\ProgRevisão\bin\Debug\netcoreapp3.1\ProgRevisão.pdb
+D:\MeuGit\Curso C sharp\ProgRevisão\ProgRevisão\obj\Debug\netcoreapp3.1\ProgRevisão.csproj.AssemblyReference.cache
+D:\MeuGit\Curso C sharp\ProgRevisão\ProgRevisão\obj\Debug\netcoreapp3.1\ProgRevisão.GeneratedMSBuildEditorConfig.editorconfig
+D:\MeuGit\Curso C sharp\ProgRevisão\ProgRevisão\obj\Debug\netcoreapp3.1\ProgRevisão.AssemblyInfoInputs.cache
+D:\MeuGit\Curso C sharp\ProgRevisão\ProgRevisão\obj\Debug\netcoreapp3.1\ProgRevisão.AssemblyInfo.cs
+D:\MeuGit\Curso C sharp\ProgRevisão\ProgRevisão\obj\Debug\netcoreapp3.1\ProgRevisão.csproj.CoreCompileInputs.cache
+D:\MeuGit\Curso C sharp\ProgRevisão\ProgRevisão\obj\Debug\netcoreapp3.1\ProgRevisão.dll
+D:\MeuGit\Curso C sharp\ProgRevisão\ProgRevisão\obj\Debug\netcoreapp3.1\ProgRevisão.pdb
+D:\MeuGit\Curso C sharp\ProgRevisão\ProgRevisão\obj\Debug\netcoreapp3.1\ProgRevisão.genruntimeconfig.cache

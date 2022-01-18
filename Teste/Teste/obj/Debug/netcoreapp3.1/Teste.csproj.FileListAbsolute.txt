@@ -1,0 +1,14 @@
+D:\MeuGit\Curso C sharp\Teste\Teste\bin\Debug\netcoreapp3.1\Teste.exe
+D:\MeuGit\Curso C sharp\Teste\Teste\bin\Debug\netcoreapp3.1\Teste.deps.json
+D:\MeuGit\Curso C sharp\Teste\Teste\bin\Debug\netcoreapp3.1\Teste.runtimeconfig.json
+D:\MeuGit\Curso C sharp\Teste\Teste\bin\Debug\netcoreapp3.1\Teste.runtimeconfig.dev.json
+D:\MeuGit\Curso C sharp\Teste\Teste\bin\Debug\netcoreapp3.1\Teste.dll
+D:\MeuGit\Curso C sharp\Teste\Teste\bin\Debug\netcoreapp3.1\Teste.pdb
+D:\MeuGit\Curso C sharp\Teste\Teste\obj\Debug\netcoreapp3.1\Teste.csproj.AssemblyReference.cache
+D:\MeuGit\Curso C sharp\Teste\Teste\obj\Debug\netcoreapp3.1\Teste.GeneratedMSBuildEditorConfig.editorconfig
+D:\MeuGit\Curso C sharp\Teste\Teste\obj\Debug\netcoreapp3.1\Teste.AssemblyInfoInputs.cache
+D:\MeuGit\Curso C sharp\Teste\Teste\obj\Debug\netcoreapp3.1\Teste.AssemblyInfo.cs
+D:\MeuGit\Curso C sharp\Teste\Teste\obj\Debug\netcoreapp3.1\Teste.csproj.CoreCompileInputs.cache
+D:\MeuGit\Curso C sharp\Teste\Teste\obj\Debug\netcoreapp3.1\Teste.dll
+D:\MeuGit\Curso C sharp\Teste\Teste\obj\Debug\netcoreapp3.1\Teste.pdb
+D:\MeuGit\Curso C sharp\Teste\Teste\obj\Debug\netcoreapp3.1\Teste.genruntimeconfig.cache

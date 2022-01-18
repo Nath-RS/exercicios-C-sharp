@@ -1,0 +1,6 @@
+D:\MeuGit\Curso C sharp\Teste\ImparPar\bin\Debug\ImparPar.exe.config
+D:\MeuGit\Curso C sharp\Teste\ImparPar\bin\Debug\ImparPar.exe
+D:\MeuGit\Curso C sharp\Teste\ImparPar\bin\Debug\ImparPar.pdb
+D:\MeuGit\Curso C sharp\Teste\ImparPar\obj\Debug\ImparPar.csproj.CoreCompileInputs.cache
+D:\MeuGit\Curso C sharp\Teste\ImparPar\obj\Debug\ImparPar.exe
+D:\MeuGit\Curso C sharp\Teste\ImparPar\obj\Debug\ImparPar.pdb

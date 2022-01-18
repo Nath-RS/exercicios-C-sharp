@@ -1,0 +1,6 @@
+D:\MeuGit\Curso C sharp\Teste\ImparparSolucao\bin\Debug\ImparparSolucao.exe.config
+D:\MeuGit\Curso C sharp\Teste\ImparparSolucao\bin\Debug\ImparparSolucao.exe
+D:\MeuGit\Curso C sharp\Teste\ImparparSolucao\bin\Debug\ImparparSolucao.pdb
+D:\MeuGit\Curso C sharp\Teste\ImparparSolucao\obj\Debug\ImparparSolucao.csproj.CoreCompileInputs.cache
+D:\MeuGit\Curso C sharp\Teste\ImparparSolucao\obj\Debug\ImparparSolucao.exe
+D:\MeuGit\Curso C sharp\Teste\ImparparSolucao\obj\Debug\ImparparSolucao.pdb

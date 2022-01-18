@@ -1,0 +1,14 @@
+D:\MeuGit\Curso C sharp\Revisao\Revisao\bin\Debug\netcoreapp3.1\Revisao.exe
+D:\MeuGit\Curso C sharp\Revisao\Revisao\bin\Debug\netcoreapp3.1\Revisao.deps.json
+D:\MeuGit\Curso C sharp\Revisao\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.json
+D:\MeuGit\Curso C sharp\Revisao\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.dev.json
+D:\MeuGit\Curso C sharp\Revisao\Revisao\bin\Debug\netcoreapp3.1\Revisao.dll
+D:\MeuGit\Curso C sharp\Revisao\Revisao\bin\Debug\netcoreapp3.1\Revisao.pdb
+D:\MeuGit\Curso C sharp\Revisao\Revisao\obj\Debug\netcoreapp3.1\Revisao.csproj.AssemblyReference.cache
+D:\MeuGit\Curso C sharp\Revisao\Revisao\obj\Debug\netcoreapp3.1\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+D:\MeuGit\Curso C sharp\Revisao\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfoInputs.cache
+D:\MeuGit\Curso C sharp\Revisao\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfo.cs
+D:\MeuGit\Curso C sharp\Revisao\Revisao\obj\Debug\netcoreapp3.1\Revisao.csproj.CoreCompileInputs.cache
+D:\MeuGit\Curso C sharp\Revisao\Revisao\obj\Debug\netcoreapp3.1\Revisao.dll
+D:\MeuGit\Curso C sharp\Revisao\Revisao\obj\Debug\netcoreapp3.1\Revisao.pdb
+D:\MeuGit\Curso C sharp\Revisao\Revisao\obj\Debug\netcoreapp3.1\Revisao.genruntimeconfig.cache

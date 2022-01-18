@@ -1,0 +1,7 @@
+D:\MeuGit\Curso C sharp\Revisao\exercicio 3\bin\Debug\exercicio 3.exe.config
+D:\MeuGit\Curso C sharp\Revisao\exercicio 3\bin\Debug\exercicio 3.exe
+D:\MeuGit\Curso C sharp\Revisao\exercicio 3\bin\Debug\exercicio 3.pdb
+D:\MeuGit\Curso C sharp\Revisao\exercicio 3\obj\Debug\exercicio 3.csproj.CoreCompileInputs.cache
+D:\MeuGit\Curso C sharp\Revisao\exercicio 3\obj\Debug\exercicio 3.exe
+D:\MeuGit\Curso C sharp\Revisao\exercicio 3\obj\Debug\exercicio 3.pdb
+D:\MeuGit\Curso C sharp\Revisao\exercicio 3\obj\Debug\exercicio 3.csproj.AssemblyReference.cache
